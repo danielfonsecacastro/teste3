@@ -1,5 +1,6 @@
 # Utilizei RabbitMQ para atender a obrigatoriedade do uso de um AMQP.
-Configurações: 
+#Configurações: 
+```
 RabbitMQ
   "HostName": "localhost",
   "Port": "5672",
@@ -10,3 +11,4 @@ RabbitMQ
   "Interval": 5000,
 Nome do serviço
   "ServiceName": "TestBari"
+```
